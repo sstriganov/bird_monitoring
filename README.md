@@ -34,7 +34,7 @@ pip install transformers datasets librosa soundfile pandas matplotlib seaborn sc
 
 ### Полный анализ
 
-Для полного анализа с визуализацией и метриками откройnt `bird_analysis.ipynb` в Google Colab.
+Для полного анализа с визуализацией и метриками откройте `bird_analysis.ipynb` в Google Colab.
 
 ## Структура проекта
 
